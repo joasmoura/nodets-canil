@@ -9,6 +9,7 @@
 - `npm install --save-dev @types/express @types/mustache-express @types/node`
 - `npm install express mustache-express dotenv`
 - `npm install -g typescript`
+- `npm install --save-dev copyfiles`
 
 ### Instalação
 `npm install`
